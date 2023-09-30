@@ -1,0 +1,19 @@
+.ant-radio-group {
+  display: flex;
+}
+
+.ant-radio-button-wrapper {
+  &.radioButton {
+    width: 167px;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    text-align: center;
+  }
+}
+
+.radioButton {
+  font-size: 12px;
+}
